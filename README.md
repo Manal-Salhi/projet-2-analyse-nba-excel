@@ -26,15 +26,15 @@ Ma mission : **explorer un fichier de près de 570 joueurs, analyser leurs stati
 
 **Vue d'ensemble des équipes : points marqués et nombre de joueurs**
 
-![Visualisation des équipes](images/slide-4.png)
+![Visualisation des équipes](slide-4.png)
 
 **Top 15 des meilleurs scoreurs**
 
-![Analyse du top 15](images/slide-8.png)
+![Analyse du top 15](slide-8.png)
 
 **Temps de jeu et performance**
 
-![Temps de jeu et performance](images/slide-12.png)
+![Temps de jeu et performance](slide-12.png)
 
 ## 💡 Principaux enseignements
 
@@ -43,7 +43,7 @@ Ma mission : **explorer un fichier de près de 570 joueurs, analyser leurs stati
 - Le **temps de jeu** est fortement lié à la production de points : les joueurs qui jouent plus de 30 minutes par match sont les cadres de leur équipe.
 - Une équipe « idéale » a été proposée à partir des joueurs les plus efficaces (Shai Gilgeous-Alexander, Nikola Jokić, Karl-Anthony Towns, Zach LaVine, Stephen Curry).
 
-![Équipe des joueurs les plus efficaces](images/slide-13.png)
+![Équipe des joueurs les plus efficaces](slide-13.png)
 
 ## 📁 Fichiers du projet
 
